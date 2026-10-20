@@ -1,0 +1,8 @@
+#ifndef DEBUG_SWITCH_HPP
+#define DEBUG_SWITCH_HPP
+
+#ifndef ENABLE_VISION_DEBUG
+#define ENABLE_VISION_DEBUG 0
+#endif
+
+#endif

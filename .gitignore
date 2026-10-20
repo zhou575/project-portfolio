@@ -1,0 +1,16 @@
+# Build outputs
+**/project/out/
+**/build/
+**/out/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/compile_commands.json
+
+# Compiler outputs
+**/*.o
+**/*.obj
+**/*.d
+**/*.so
+
