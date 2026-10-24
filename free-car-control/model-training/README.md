@@ -37,4 +37,3 @@ The training script uses a validation split from the training set for model sele
 - `artifacts/metrics.json`: training and evaluation metadata
 
 The original source project contains the Windows `pnnx.exe` converter, but it is not copied here. Install or provide `pnnx`/`onnx2ncnn` separately when regenerating NCNN files; the existing exports are included.
-
