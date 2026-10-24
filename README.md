@@ -1,6 +1,6 @@
 # Project Portfolio
 
-本科期间项目整理。
+
 
 ## 项目
 
