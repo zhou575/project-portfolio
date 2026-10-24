@@ -1,0 +1,23 @@
+{
+  "best_val_acc": 0.9527027027027027,
+  "best_epoch": 18,
+  "target_acc": 0.95,
+  "reached_target_acc": true,
+  "test_acc": 0.6016949152542372,
+  "test_loss": 1.0655399015394307,
+  "torch_cpu_1thread_ms": 1.8844944001175463,
+  "num_params": 4323,
+  "classes": [
+    "supplies",
+    "vehicle",
+    "weapon"
+  ],
+  "onnx_path": "model_train\\artifacts\\tiny_classifier_fp32.onnx",
+  "shape_mode": "square",
+  "augment_level": "strong",
+  "img_size": 64,
+  "img_width": 64,
+  "img_height": 64,
+  "width_mult": 0.6,
+  "labels_path": "model_train\\artifacts\\labels.txt"
+}
